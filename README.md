@@ -6,7 +6,7 @@ A virtual assistant that attends meetings for you when you are too busy, providi
 - the ability to text you a question during the meeting if someone needs your immediate input
 - the ability to bring you into the meeting if someone asks for you and you agree to join
 
-This solution is built using the open source [jambonz CPaaS](https://docs.jambonz.org) for telephony and SMS features, and symbl.ai for conversational intelligence.
+This solution is built using the open source [jambonz CPaaS](https://docs.jambonz.org) for telephony and SMS features, and [symbl.ai](https://symbl.ai) for conversational intelligence.
 
 ## Architecture
 ![pic](/meeting-steadme.png)
