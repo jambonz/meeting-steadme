@@ -1,0 +1,22 @@
+{
+  "name": "meeting-steadme",
+  "version": "1.0.0",
+  "description": "bot that attends meetings when you are too busy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Horton",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "mic": "^2.1.2",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "uuid": "^8.3.1",
+    "websocket": "^1.0.31",
+    "ws": "^7.2.1"
+  }
+}
